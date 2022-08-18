@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **michmy/michmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const Michelle = {
+  role: 'Frontend engineer',
+  code: ['Typescript', 'Javascript', 'HTML', 'CSS'],
+  tools: [
+    "React",
+    "Next.js",
+    'Git',
+    'Storybook',
+    'GraphQL',
+    'Jest',
+    'React Testing Library',
+    'Node.js',
+    'PostgreSQL',
+    'Figma',
+  ],
+};
+
+```
